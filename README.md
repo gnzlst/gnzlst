@@ -1,4 +1,4 @@
-## Hi there 👋
+## G'day!
 
 I am a software engineer with extensive experience in leading cross-functional teams and delivering impactful solutions across various domains. I have a strong background in back-end and front-end development, cloud services, and IoT solutions. My passion for continuous learning drives me to stay updated with the latest technologies and methodologies.
 
